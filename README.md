@@ -22,6 +22,14 @@
 
 <h2> Samples from my projects </h2>
 
+### مكتبتي بلس 
+تطبيق إسلامي شامل بدون انترنت "مكتبتي بلس" تطبيق رائع ويستحق التجربة لأنه يحتوي على تفاصيل وخدمات تهم وتفيد كل مسلم
+
+<p><a href="https://play.google.com/store/apps/details?id=com.maktbti.plus" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a><p>
+
+
+<hr>
+
 
 ### X Math
 It is an educational application for mathematics that is used by the teacher, the student, and his guardian.
