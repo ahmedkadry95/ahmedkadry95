@@ -23,7 +23,9 @@
 <h2> Samples from my projects </h2>
 
 ### مكتبتي بلس 
-تطبيق إسلامي شامل بدون انترنت "مكتبتي بلس" تطبيق رائع ويستحق التجربة لأنه يحتوي على تفاصيل وخدمات تهم وتفيد كل مسلم
+تطبيق إسلامي شامل بدون انترنت "مكتبتي بلس" يحتوي علي الكثير من المميزات التي نحتاج الي استخدامها بشكل يومي مثل مواقيت الصلاة و الاذكار و مقالات و العاب و مجتمع مكتبتي بلس الذي يمكنك من كتابه المنشورات و الاعجاب او مشاركه منشورات الغير 
+
+A comprehensive Islamic application without the Internet, “My Library Plus” contains many features that we need to use on a daily basis, such as prayer times, remembrances, articles, games, and the Maktabi Plus community, which enables you to write posts, like, or share others’ posts.
 
 <p><a href="https://play.google.com/store/apps/details?id=com.maktbti.plus" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a><p>
 
