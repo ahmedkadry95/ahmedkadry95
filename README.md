@@ -1,11 +1,11 @@
 <h1> Hi there, I'm Ahmed Kadry 👋:heart: </h1>
 
 
+
 - Mobile Application Developer
 - Flutter
 - Familiar with ios
 <hr>
-
 
 
 <h2> Contact with me on </h2>
@@ -19,15 +19,6 @@
 
  <a href="https://www.linkedin.com/in/ahmed-kadry-a2688820b/" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
-
-<!-- - whatsApp for bussines : http://Wa.me/201028205960
-- business email : abdullah@mansouracademy.net
-- personal email : abdullah.mansour97@gmail.com
-- facebook : https://www.facebook.com/abdullahmanss
-- linkedIn : https://www.linkedin.com/in/abdullah-mansour-346516159
-- instagram : https://www.instagram.com/abdullahmanss
-- youtube channel : https://www.youtube.com/AbdullahMansourAli -->
-<hr>
 
 <h2> Samples from my projects </h2>
 
