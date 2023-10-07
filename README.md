@@ -22,6 +22,22 @@
 
 <h2> Samples from my projects </h2>
 
+
+### اصلح لي 
+وهو التطبيق الأول الذي يعتني بكافة شؤون الفرد والأسرة والمجتمع.
+تطبيق الاصلح لي يهتم بالذرية فهم قرة العين وبصلاحهم تصلح المجتمعات.
+  وهو تطبيق تعليمي وتعليمي وديني وترفيهي وتعليمي.
+  يحتوي على القرآن الكريم والأذان والعبادة والذكر وجميع الأعمال الصالحة.
+
+ It is the first application that takes care of all matters of the individual, family and society.
+The application of the fittest for me cares about the offspring, they are the apple of the eye, and with their righteousness, societies are suitable.
+ It is an educational, educational, religious, entertainment and educational application.
+ contains the Noble Qur’an, the call to prayer, worship, dhikr, and all good deeds.
+
+<p><a href="https://play.google.com/store/apps/details?id=com.nit.medhatnabil&hl=en&gl=US" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/mr-medhat-nabil/id1641123569" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
+
 ### مكتبتي بلس 
 تطبيق إسلامي شامل بدون انترنت "مكتبتي بلس" يحتوي علي الكثير من المميزات التي نحتاج الي استخدامها بشكل يومي مثل مواقيت الصلاة و الاذكار و مقالات و العاب و مجتمع مكتبتي بلس الذي يمكنك من كتابه المنشورات و الاعجاب او مشاركه منشورات الغير 
 
