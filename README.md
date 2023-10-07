@@ -34,7 +34,7 @@ The application of the fittest for me cares about the offspring, they are the ap
  It is an educational, educational, religious, entertainment and educational application.
  contains the Noble Qur’an, the call to prayer, worship, dhikr, and all good deeds.
 
-<p><a href="https://play.google.com/store/apps/details?id=com.nit.medhatnabil&hl=en&gl=US" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/mr-medhat-nabil/id1641123569" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+<p><a href="https://play.google.com/store/apps/details?id=com.aslehli" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/%D8%A3%D8%B5%D9%84%D8%AD-%D9%84%D9%8A/id1610396022" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
 <hr>
 
