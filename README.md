@@ -1,7 +1,6 @@
 <h1> Hi there, I'm Ahmed Kadry 👋:heart: </h1>
 
-<!-- <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:250px;border-radius:50%;">
- -->
+
 - Mobile Application Developer
 - Flutter
 - Familiar with ios
