@@ -23,13 +23,12 @@
 <h2> Samples from my projects </h2>
 
 
-### Mr. Medhat Nabil
+### X Math
 It is an educational application for mathematics that is used by the teacher, the student, and his guardian.
 Where the teacher uploads explanation lessons, whether they are videos or references, sets tests for students, reviews students’ solutions to tests and reviews, or reviews students’ reports.
 The student also uses it to review lessons and solve tests
 The parent uses the application to track the student’s level through comprehensive reports
 
-### X Math
 <p><a href="https://play.google.com/store/apps/details?id=com.nit.medhatnabil&hl=en&gl=US" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/mr-medhat-nabil/id1641123569" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
 <hr>
