@@ -21,7 +21,7 @@
 
 
 <h2> Samples from my projects </h2>
-
+### Math with Haytham
 It is an educational application for mathematics that is used by the teacher, the student, and his guardian.
 Where the teacher uploads explanation lessons, whether they are videos or references, sets tests for students, reviews students’ solutions to tests and reviews, or reviews students’ reports.
 The student also uses it to review lessons and solve tests
@@ -31,7 +31,7 @@ The parent uses the application to track the student’s level through comprehen
 
 <hr>
 
-جميل كارد - بطاقات العمل الرقمية
+### جميل كارد - بطاقات العمل الرقمية
 جميل علامة تجارية سعودية تُقدم حلول مبتكرة لبطاقات العمل الرقمية التي تسمح لك بمشاركة المعلومات بسهوله وتقدم خدمات لقطاع الأعمال والأفراد
 
 
