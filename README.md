@@ -58,6 +58,16 @@ A comprehensive Islamic application without the Internet, “My Library Plus” 
 
 <hr>
 
+
+### Qtap
+NFC Data transfer application that allows user to share his/her info or social media account with
+desired people by NFC Tag and as a link
+
+
+<p><a href="https://play.google.com/store/apps/details?id=com.qtap.app&hl=en&gl=US" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/qtap/id6451424212" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
+
 ### El-monorail
 It is an E-Learning  application for Physics  that is used by the teacher, the student, and his guardian.
 Where the teacher uploads explanation lessons, whether they are videos or references, sets tests for students, reviews students’ solutions to tests and reviews, or reviews students’ reports.
