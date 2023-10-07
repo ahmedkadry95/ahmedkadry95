@@ -38,6 +38,16 @@ The application of the fittest for me cares about the offspring, they are the ap
 
 <hr>
 
+
+### مكتبتي بلس 
+تطبيق إسلامي شامل بدون انترنت "مكتبتي بلس" يحتوي علي الكثير من المميزات التي نحتاج الي استخدامها بشكل يومي مثل مواقيت الصلاة و الاذكار و مقالات و العاب و مجتمع مكتبتي بلس الذي يمكنك من كتابه المنشورات و الاعجاب او مشاركه منشورات الغير 
+
+A comprehensive Islamic application without the Internet, “My Library Plus” contains many features that we need to use on a daily basis, such as prayer times, remembrances, articles, games, and the Maktabi Plus community, which enables you to write posts, like, or share others’ posts.
+
+<p><a href="https://play.google.com/store/apps/details?id=com.maktbti.plus" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a><p>
+
+
+<hr>
 ### جميل كارد - بطاقات العمل الرقمية
 جميل علامة تجارية سعودية تُقدم حلول مبتكرة لبطاقات العمل الرقمية التي تسمح لك بمشاركة المعلومات بسهوله وتقدم خدمات لقطاع الأعمال والأفراد
 
@@ -57,18 +67,6 @@ The parent uses the application to track the student’s level through comprehen
 
 
 <hr>
-
-
-### مكتبتي بلس 
-تطبيق إسلامي شامل بدون انترنت "مكتبتي بلس" يحتوي علي الكثير من المميزات التي نحتاج الي استخدامها بشكل يومي مثل مواقيت الصلاة و الاذكار و مقالات و العاب و مجتمع مكتبتي بلس الذي يمكنك من كتابه المنشورات و الاعجاب او مشاركه منشورات الغير 
-
-A comprehensive Islamic application without the Internet, “My Library Plus” contains many features that we need to use on a daily basis, such as prayer times, remembrances, articles, games, and the Maktabi Plus community, which enables you to write posts, like, or share others’ posts.
-
-<p><a href="https://play.google.com/store/apps/details?id=com.maktbti.plus" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a><p>
-
-
-<hr>
-
 
 ### X Math
 It is an educational application for mathematics that is used by the teacher, the student, and his guardian.
