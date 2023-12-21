@@ -22,7 +22,7 @@
 
 <h2> Samples from my projects </h2>
 
-###AlKuttab 
+### AlKuttab 
 
 Alkuttab is an online learning platform that provides an educational service.
 Alkuttab is an online learning platform that combines the distinctive values of traditional education with cutting-edge approaches. Here, students comprehend the curriculum through positive engagement and active attitudes, whether alone or in a group (Halaqa)
