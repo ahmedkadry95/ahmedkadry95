@@ -1,4 +1,4 @@
-<h1> Hi there, I'm Ahmed Kadry 👋 </h1>
+<h1> Hi there, I'm Ahmed Kadry 👋 💻 </h1>
 
 
 
