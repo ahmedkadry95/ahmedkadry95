@@ -21,9 +21,12 @@
 
 
 <h2> Samples from my projects </h2>
-### AlKuttab 
+
+###AlKuttab 
+
 Alkuttab is an online learning platform that provides an educational service.
 Alkuttab is an online learning platform that combines the distinctive values of traditional education with cutting-edge approaches. Here, students comprehend the curriculum through positive engagement and active attitudes, whether alone or in a group (Halaqa)
+
 </a> <a href="https://apps.apple.com/us/app/alkuttab/id6474078678" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
 
