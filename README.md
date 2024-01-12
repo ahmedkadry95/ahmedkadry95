@@ -28,7 +28,7 @@ Alkuttab is an online learning platform that provides an educational service.
 Alkuttab is an online learning platform that combines the distinctive values of traditional education with cutting-edge approaches. Here, students comprehend the curriculum through positive engagement and active attitudes, 
 whether alone or in a group (Halaqa)
 
-<p><a href="https://play.google.com/store/apps/details?id=com.aslehli" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" />
+<p><a href="https://play.google.com/store/search?q=alkuttab&c=apps&hl=en&gl=US" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" />
 </a> <a href="https://apps.apple.com/us/app/alkuttab/id6474078678" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
 
