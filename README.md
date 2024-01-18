@@ -22,6 +22,16 @@
 
 <h2> Samples from my projects </h2>
 
+### القفاري للاثاث - تطبيق توصيل و متابعة عملية التركيبات Al-Kaffary Furniture - an application for delivery and follow-up of the installation process
+
+هو التطبيق الخاص بشركة القفاري و الذي يتم استخدامة من قبل عمال التركيبات لمعرفة طلبات التركيبات الجديده و البداء في التركيب و الابلاغ عن المشاكل ان وجدت .
+كما يتم استخدامه من قبل المشتري عن طريق المسح الضوئي للرمز الموجود علي الفاتوره 
+It is the application of Al-Qafari Company, which is used by installation workers to find out requests for new installations, start installation, and report problems, if any.
+It is also used by the buyer by scanning the code on the invoice
+
+</a> <a href="https://apps.apple.com/eg/app/%D8%A7%D9%84%D9%82%D9%81%D8%A7%D8%B1%D9%8A-%D9%84%D9%84%D8%A7%D8%AB%D8%A7%D8%AB/id6473100176" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+
 ### AlKuttab 
 
 Alkuttab is an online learning platform that provides an educational service.
