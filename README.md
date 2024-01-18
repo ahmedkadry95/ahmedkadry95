@@ -25,7 +25,7 @@
 ### القفاري للاثاث - تطبيق توصيل و متابعة عملية التركيبات Al-Kaffary Furniture - an application for delivery and follow-up of the installation process
 
 هو التطبيق الخاص بشركة القفاري و الذي يتم استخدامة من قبل عمال التركيبات لمعرفة طلبات التركيبات الجديده و البداء في التركيب و الابلاغ عن المشاكل ان وجدت .
-كما يتم استخدامه من قبل المشتري عن طريق المسح الضوئي للرمز الموجود علي الفاتوره 
+كما يتم استخدامه من قبل المشتري عن طريق المسح الضوئي للرمز الموجود علي الفاتوره </br>
 It is the application of Al-Qafari Company, which is used by installation workers to find out requests for new installations, start installation, and report problems, if any.
 It is also used by the buyer by scanning the code on the invoice
 
