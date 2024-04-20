@@ -30,6 +30,13 @@ It is also used by the buyer by scanning the code on the invoice
 
 </a> <a href="https://apps.apple.com/eg/app/%D8%A7%D9%84%D9%82%D9%81%D8%A7%D8%B1%D9%8A-%D9%84%D9%84%D8%A7%D8%AB%D8%A7%D8%AB/id6473100176" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
+### دار الإفتاء المصرية - موقع إعداد المفتين عن بعد
+
+المنصة التعليمة الخاصة بدار الإفتاء المصرية التي يتمكن الطلبة من خلالها من متابعة المنهج التعليمي الخاص بهم
+
+<p><a href="[https://play.google.com/store/search?q=alkuttab&c=apps&hl=en&gl=US](https://play.google.com/store/apps/details?id=com.nit.muftispreparationremotely&pcampaignid=web_share)" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" />
+</a> <a href="[https://apps.apple.com/us/app/alkuttab/id6474078678](https://apps.apple.com/eg/app/ifta-e-learning-center/id6470988701)" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
 
 ### AlKuttab 
 
