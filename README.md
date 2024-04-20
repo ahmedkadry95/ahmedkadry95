@@ -13,9 +13,10 @@
 <!-- <h3>Where to find me</h3>
 <p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github2" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> -->
 
-- business email : ahmedyoussefkadry95@gmail.com 
+- Business email : ahmedyoussefkadry95@gmail.com 
+- Mobile number : 00201020527682
 
-<!-- <a href="http://Wa.me/201028205960" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/whatsapp%20bussines-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> -->
+<a href="http://Wa.me/201020527682" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/whatsapp%20bussines-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
  <a href="https://www.linkedin.com/in/ahmed-kadry-a2688820b/" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
